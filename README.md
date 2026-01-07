@@ -1,7 +1,6 @@
 Hello from Eric aka santosh ❄️
 
-Just a guy trying to figure things out building website that actually work and also good at UI-UX
-learning things 
+Just a guy trying to figure things out building website that actually work and also good at UI-UX.
 
 Skills:
 -Python | Flask | Django | JS | HTML/CSS | Tailwind | SQLAlchemy  
